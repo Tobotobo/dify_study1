@@ -29,7 +29,7 @@ docker compose up -d
 http://localhost/install  
 ![alt text](docs/images/1745590604199.png)
 
-### アカウント設定後
+### アカウント設定後 ※画像は色々いじった後
 http://localhost
 ![alt text](docs/images/1745901316850.png)
 
