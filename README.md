@@ -25,10 +25,15 @@ cp .env.example .env
 docker compose up -d
 ```
 
+### 管理者アカウント設定
 http://localhost/install  
 ![alt text](docs/images/1745590604199.png)
 
-よくある質問  
+### アカウント設定後
+http://localhost
+![alt text](docs/images/1745901316850.png)
+
+### よくある質問  
 https://docs.dify.ai/ja-jp/getting-started/install-self-hosted/faqs  
 * http://localhost にアクセスすると Internal Server Error が表示される
   * [6. docker-api-1 でのデータベース接続エラーの解決方法とは？](https://docs.dify.ai/ja-jp/getting-started/install-self-hosted/faqs#id-6-docker-api-1-denodtabsuernotoha)  
@@ -102,3 +107,5 @@ https://hana555.net/ru-oosiba-goroku-2297#i-3
 やばい AI ができた
 ![alt text](docs/images/1745900616778.png)
 
+## スクショ
+![alt text](docs/images/1745901493818.png)
